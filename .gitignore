@@ -36,4 +36,4 @@ xmlrpc.php
 /themes
 
 # Ignore css dynamic content from sass
-sites/all/themes/<nombre_del_subtema>/css/*
+sites/all/themes/equiposBootstrap/css/*
